@@ -1,1 +1,1 @@
-# Semantic-Lens-AAAI24
+# Semantic-Lens: Instance-Centric Semantic Alignment for Video Super-Resolution
