@@ -21,24 +21,21 @@
 <sup>4</sup>School of Computer and Communication Engineering, University of Science and Technology Beijing, Beijing, China
 </div>
 
+<br>
+
 <p align="center">
     <img src="assets/framework.png" style="border-radius: 15px">
 </p>
+
 <div align="center">
 ⭐ If you think Semantic-Lens is helpful for you, please help star this repo. Thanks! 🤗
 </div>
 
+## 🎬 Visualization
 
+https://github.com/Tang1705/Semantic-Lens-AAAI24/assets/44370086/fbe6d270-171d-488a-8b89-7bbf65740b14
 
-## :fireworks:Visual Comparisons
-
-<!-- <details close>
-<summary>General Image Restoration</summary> -->
-<p align="center">
-    <img src="assets/qual_results.png" style="border-radius: 15px">
-</p>
-
-## 📎Citation
+## 📎 Citation
 
 Please cite our work if you think it is useful for your research.
 
@@ -51,6 +48,6 @@ Please cite our work if you think it is useful for your research.
 }
 ```
 
-## 📭Contact
+## 📭 Contact
 
 If your have any comments or questions, feel free to contact qitang@bjtu.edu.cn.
