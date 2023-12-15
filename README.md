@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="assets/icon.png" width="400">
+    <img src="assets/icon.png" width="200">
 </p>
 
 <h2 align="center">Semantic-Lens: Instance-Centric Semantic Alignment for Video Super-Resolution</h2>
