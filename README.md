@@ -34,7 +34,7 @@
 
 ## 🎬 Visualization
 
-https://github.com/Tang1705/Semantic-Lens-AAAI24/assets/44370086/af12cbcb-1099-4336-8ce8-a95830c17b74
+https://github.com/Tang1705/Semantic-Lens-AAAI24/assets/44370086/3f4fd155-19fa-4ff7-b905-f1779f451083
 
 ## 📎 Citation
 
