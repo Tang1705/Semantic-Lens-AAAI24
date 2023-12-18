@@ -3,7 +3,7 @@
     <img src="assets/icon.png" width="200">
 </p>
 
-<h2 align="center">Semantic-Lens: Instance-Centric Semantic Alignment for Video Super-Resolution</h2>
+<h2 align="center">Semantic Lens: Instance-Centric Semantic Alignment for Video Super-Resolution</h2>
 
 <div align="center">
  <a href='https://arxiv.org/abs/2312.07823'><img src='https://img.shields.io/badge/arXiv-2312.07823-B31B1B.svg'></a> &nbsp;&nbsp;<img src="https://visitor-badge.laobi.icu/badge?page_id=Tang1705.Semantic-Lens-AAAI24">
