@@ -44,8 +44,8 @@ Please cite our work if you think it is useful for your research.
 @inproceedings{Tang2023AAAI,
   author = {Tang, Qi and Zhao, Yao and Liu, Meiqin and Jin, Jian and Yao, Chao},
   booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
-  title = {Semantic-Lens: Instance-Centric Semantic Alignment for Video Super-Resolution},
-  year = {2023},
+  title = {Semantic Lens: Instance-Centric Semantic Alignment for Video Super-Resolution},
+  year = {2024},
 }
 ```
 
